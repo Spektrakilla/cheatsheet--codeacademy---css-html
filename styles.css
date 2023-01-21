@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: rgb(187, 187, 187);
+  background-color: rgb(177, 177, 177);
 }
 
 h1 {
@@ -13,13 +13,13 @@ h2 {
 }
 
 table {
-  border: 2px solid rgb(93, 124, 0);
+  border: 2px solid rgb(78, 104, 0);
   width: 650px;
   margin: 0 auto;
 }
 
 thead {
-  background-color: rgb(32, 32, 32);
+  background-color: rgb(185, 185, 185);
 }
 
 td {
@@ -28,7 +28,7 @@ td {
 
 .code {
   font-family: monospace;
-  background-color: rgb(172, 172, 172);
+  background-color: rgb(216, 216, 216);
 }
 
 p {
