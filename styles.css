@@ -18,12 +18,19 @@ table {
   margin: 0 auto;
 }
 
+[id="2"] {
+border: 2px solid rgb(78, 104, 0);
+width: 1200px;
+margin: 0 auto;
+}
+
 thead {
   background-color: rgb(185, 185, 185);
 }
 
 td {
   border-top: 1px solid rgb(49, 109, 0);
+  width: 100px;
 }
 
 .code {
@@ -31,6 +38,3 @@ td {
   background-color: rgb(216, 216, 216);
 }
 
-p {
-  text-align: center;
-}
