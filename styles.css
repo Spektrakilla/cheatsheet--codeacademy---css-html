@@ -30,3 +30,7 @@ td {
   font-family: monospace;
   background-color: rgb(172, 172, 172);
 }
+
+p {
+  text-align: center;
+}
