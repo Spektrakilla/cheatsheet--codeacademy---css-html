@@ -1,40 +1,52 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: rgb(177, 177, 177);
+  background-color: rgb(189, 189, 189);
 }
 
 h1 {
+  color: rgb(0, 0, 0);
   text-align: center;
+  font-family: 'Turret Road', cursive;
+  font-size: 50px;
 }
 
 h2 {
-  color: rgb(75, 122, 0);
+  color: rgb(31, 31, 31);
   text-align: center;
+  font-family: 'Turret Road', cursive;
+  font-size: 30px;
 }
 
 table {
-  border: 2px solid rgb(78, 104, 0);
-  width: 650px;
+  border: 2px solid rgb(255, 255, 255);
+  width: 700px;
   margin: 0 auto;
+  border-radius:11px;
 }
 
 #TableWide {
-border: 2px solid rgb(78, 104, 0);
+border: 2px solid rgb(255, 255, 255);
 width: 1200px;
 margin: 0 auto;
 }
 
 thead {
-  background-color: rgb(185, 185, 185);
+  background-color: rgb(255, 255, 255);
+  font-family: 'Red Hat Mono', monospace;
 }
 
 td {
-  border-top: 1px solid rgb(49, 109, 0);
-  width: 100px;
+  border-top: 1px solid rgb(226, 226, 226);
+  width: 200px;
+  font-family: 'Red Hat Mono', monospace;
+  font-size: 13px;
 }
 
 .code {
-  font-family: monospace;
-  background-color: rgb(216, 216, 216);
+  background-color: rgb(212, 212, 212);
+  font-family: 'Red Hat Mono', monospace;
 }
 
+.boximage {
+  vertical-align: middle;
+  border-radius: 3%;
+}
