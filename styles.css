@@ -25,13 +25,14 @@ table {
 
 #TableWide {
 border: 2px solid rgb(255, 255, 255);
-width: 1200px;
+width: 1500px;
 margin: 0 auto;
 }
 
 thead {
   background-color: rgb(255, 255, 255);
   font-family: 'Red Hat Mono', monospace;
+  color: rgb(50, 80, 150);
 }
 
 td {
@@ -39,11 +40,13 @@ td {
   width: 200px;
   font-family: 'Red Hat Mono', monospace;
   font-size: 13px;
+  color: rgb(0, 0, 0);
 }
 
 .code {
   background-color: rgb(212, 212, 212);
   font-family: 'Red Hat Mono', monospace;
+  color: rgb(0, 0, 0);
 }
 
 .boximage {
